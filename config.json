@@ -1,0 +1,38 @@
+{
+    "DEBUG_PATH": "D:\\LabData\\FACR\\VIRAL Result",
+
+    "BASE_PATH": "\\\\172.19.249.123\\LabData\\FACR\\VIRAL Result",
+
+    "VIRAL":
+    [
+        {
+            "year": 2023,
+            "cases": ["CI2345-9643 DG2"]
+        },
+        
+        {
+            "year": 2022,
+            "cases": []
+        },
+        
+        {
+            "year": 2021,
+            "cases": []
+        },
+        
+        {
+            "year": 2020,
+            "cases": []
+        },
+        
+        {
+            "year": 2019,
+            "cases": []
+        },
+        
+        {
+            "year": 2018,
+            "cases": []
+        }
+    ]
+}
